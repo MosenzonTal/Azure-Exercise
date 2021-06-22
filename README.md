@@ -21,10 +21,10 @@ The *storageName* parameter is identified as a string. The maximum length is set
 
 #### Deploy Template
 
-Before running the deployment command, **I have created a resource group** named: *talAzureTask* <br>
+Before running the deployment command, **I have created a resource group** named: *myResourceGroup* <br>
 with the following command: <br>
  
-`az group create --name talAzureTask  --location "Central US"
+`az group create --name myResourceGroup  --location "Central US"
 `
 
 **After having a ResourceGroup we can now deploy the template:** <br>
