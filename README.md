@@ -52,7 +52,7 @@ For creating a Windows Server VM, I have used the ARM template from **quickstart
 
 After creating and deploying the VM, **a new ARM template file that defines the infrastructure and configuration of the VM was created**. <br> 
 
-You can watch it in the `createWindowsMachine.json` file above. <br> 
+You can watch the template in `createWindowsMachine.json` file above. <br> 
 
 **After the deployment is finished,  we can see the VM was created successfully in the Virtual Machines list:** <br>
 
