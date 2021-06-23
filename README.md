@@ -70,7 +70,7 @@ You can watch the template in `createWindowsMachine.json` file above. <br>
     1.  create Storage Account - A (source)
     2.  create Storage Account - B (destination) 
     3.  LOOP : create 100 blobs in A
-    4.  LOOP : copy the containers and blobs from Storage Account A to Storage Account B.
+    4.  LOOP : copy all the containers and blobs from Storage Account A to Storage Account B.
 ```
 
 ***The full script can be found in the `Script.ps1 `file above.***
