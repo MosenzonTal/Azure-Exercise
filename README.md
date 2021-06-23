@@ -6,7 +6,7 @@
 
 ### Registration:
 
-**First of all I have created a free Azure subscription in Azure Websit:** <br>
+**First of all I have created a free Azure subscription in Azure Website:** <br>
 https://azure.microsoft.com/en-us/free/
 
 -----------------
