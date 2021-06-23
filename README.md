@@ -73,7 +73,7 @@ You can watch the template in `createWindowsMachine.json` file above. <br>
     4.  LOOP : copy the containers and blobs from Storage Account A to Storage Account B.
 ```
 
-**The full script can be found in the `Script.ps1 `file above.**
+***The full script can be found in the `Script.ps1 `file above.***
 
 -----------------
 
@@ -84,16 +84,20 @@ You can watch the template in `createWindowsMachine.json` file above. <br>
 ```c
 Azure Monitor helps you maximize the availability and performance of your applications and services. It delivers a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. 
 ```
+**Added a Virtual Machine Chart:** 
+***Avg Data Disk Read Bytes/Sec for a Virtual Machine i have created:***
 
 <p align="center">
   <img src="https://i.ibb.co/9HxB4JT/metrics.jpg" width="900" title="hover text">  
 </p>
 
+***Avg Data Disk Read Operations/Sec for the same Virtual Machine:***
 <p align="center">
   <img src="https://i.ibb.co/4NcKQ4S/metrics22.png" width="900" title="hover text">  
 </p>
 
-Added a Storage Account Chart: 
+**Added a Storage Account Chart:** 
+***Avg Success Server Latency for a Storage Account Resource i have created:***
 
 <p align="center">
   <img src="https://i.ibb.co/wK2Q74c/storageaccount-Metrics.jpg" width="900" title="hover text">  
@@ -101,3 +105,14 @@ Added a Storage Account Chart:
 
 
 -----------------
+
+<p align="center">
+  <b>© 2021 Tal Mosenzon. All rights reserved.</b>
+</p>
+
+<p align="center">
+     <img src="https://pluralsight2.imgix.net/paths/images/powershell-a98a1ad445.png" width="200" title="hover text">  
+  <img src="https://www.skolicicentrum.cz/images/thumbs/0011176_skoleni-microsoft-azure-nasazeni-a-sprava-cloudu_300.png" width="300" title="hover text">  
+</p>
+
+
