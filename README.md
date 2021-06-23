@@ -62,13 +62,42 @@ You can watch the template in `createWindowsMachine.json` file above. <br>
 
 -----------------
 
-### Create and copy 100 blobs from Storage account A to B and to the server
+### Create and copy 100 blobs from Storage account A to B 
 
-for creating the Script i have used **AzCopy**  Tool.
+**The general idea of the algorithm of the script that I have created for that purpose:**
 
+```c
+    1.  create Storage Account - A (source)
+    2.  create Storage Account - B (destination) 
+    3.  LOOP : create 100 blobs in A
+    4.  LOOP : copy the containers and blobs from Storage Account A to Storage Account B.
 ```
-AzCopy is a command-line tool that is used to upload and download blobs/files from or to the Azure Blob Storage. 
-```
+
+**The full script can be found in the `Script.ps1 `file above.**
 
 -----------------
 
+### Visualizing data from Azure Monitor with Dashboards
+
+**I have Created a custom dashboards in Azure Monitoring.**
+
+```c
+Azure Monitor helps you maximize the availability and performance of your applications and services. It delivers a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. 
+```
+
+<p align="center">
+  <img src="https://i.ibb.co/9HxB4JT/metrics.jpg" width="900" title="hover text">  
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/4NcKQ4S/metrics22.png" width="900" title="hover text">  
+</p>
+
+Added a Storage Account Chart: 
+
+<p align="center">
+  <img src="https://i.ibb.co/wK2Q74c/storageaccount-Metrics.jpg" width="900" title="hover text">  
+</p>
+
+
+-----------------
