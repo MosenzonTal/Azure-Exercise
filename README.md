@@ -84,6 +84,7 @@ You can watch the template in `createWindowsMachine.json` file above. <br>
 ```c
 Azure Monitor helps you maximize the availability and performance of your applications and services. It delivers a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. 
 ```
+
 **Added a Virtual Machine Chart:** <br>
 ***Avg Data Disk Read Bytes/Sec*** for a Virtual Machine i have created:
 
@@ -91,7 +92,7 @@ Azure Monitor helps you maximize the availability and performance of your applic
   <img src="https://i.ibb.co/9HxB4JT/metrics.jpg" width="900" title="hover text">  
 </p>
 
-***Avg Data Disk Read Operations/Sec for the same Virtual Machine:***
+***Avg Data Disk Read Operations/Sec*** for the same Virtual Machine:
 <p align="center">
   <img src="https://i.ibb.co/4NcKQ4S/metrics22.png" width="900" title="hover text">  
 </p>
