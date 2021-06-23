@@ -85,7 +85,7 @@ You can watch the template in `createWindowsMachine.json` file above. <br>
 Azure Monitor helps you maximize the availability and performance of your applications and services. It delivers a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. 
 ```
 **Added a Virtual Machine Chart:** <br>
-***Avg Data Disk Read Bytes/Sec for a Virtual Machine i have created:***
+***Avg Data Disk Read Bytes/Sec*** for a Virtual Machine i have created:
 
 <p align="center">
   <img src="https://i.ibb.co/9HxB4JT/metrics.jpg" width="900" title="hover text">  
@@ -97,7 +97,7 @@ Azure Monitor helps you maximize the availability and performance of your applic
 </p>
 
 **Added a Storage Account Chart:** <br>
-***Avg Success Server Latency for a Storage Account Resource i have created:***
+***Avg Success Server Latency*** for a Storage Account Resource i have created:
 
 <p align="center">
   <img src="https://i.ibb.co/wK2Q74c/storageaccount-Metrics.jpg" width="900" title="hover text">  
