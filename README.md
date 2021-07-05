@@ -116,5 +116,3 @@ It delivers a comprehensive solution for collecting, analyzing, and acting on te
      <img src="https://pluralsight2.imgix.net/paths/images/powershell-a98a1ad445.png" width="200" title="hover text">  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyggq7x3hcHCt3c_AyHDpQ8945GJXZyXKuILe6hZ4XabBl7x4wPt0ZhEJ6lQsitwWgZU&usqp=CAU" width="160" title="hovertext">  
 </p>
-
-
